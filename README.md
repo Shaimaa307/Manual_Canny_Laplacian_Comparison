@@ -1,2 +1,4 @@
 # Manual_Canny_Laplacian_Comparison
 This notebook compares manual implementations of key computer vision algorithms with OpenCV versions. It includes Laplacian sharpening and a full four-stage Canny pipeline. Using MAD and pixel similarity, the manual Canny achieved 82.55% alignment with OpenCV, validating correctness with remaining differences due to OpenCV’s internal optimizations.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shaimaa307/Manual_Canny_Laplacian_Comparison/blob/main/Manual_Canny_Laplacian_Comparison.ipynb)
+
